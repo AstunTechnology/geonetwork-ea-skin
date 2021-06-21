@@ -30,7 +30,7 @@
 "resourceConstraints": "Use constraints",
 "legalConstraints": "Limitations on public use",
 "welcomeText": "",
-"searchOver": "Welcome to the Defra Metadata Catalogue. You can explore the data by keyword, INSPIRE theme, topic, organisation etc. For more information, email us at <a href='mailto":metadata@environment-agency.gov.uk?subject='Metadata%20Portal%20Contact' target='_blank'>metadata@environment-agency.gov.uk</a>",
+"searchOver": "Welcome to the Defra Metadata Catalogue. You can explore the data by keyword, INSPIRE theme, topic, organisation etc. For more information, email us at <a href='mailto:metadata@environment-agency.gov.uk?subject='Metadata%20Portal%20Contact' target='_blank'>metadata@environment-agency.gov.uk</a>",
 "github": "Code on GitHub",
 "sourceCatalog": "Publishing Body",
 "backTomap": "Back to map",
