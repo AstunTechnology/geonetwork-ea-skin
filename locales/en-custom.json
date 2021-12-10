@@ -70,5 +70,6 @@
 "addXpath-help": "Updating records using XPath needs careful definition of the changes. A change is defined by:",
 "addXpathTitle": "an optional title",
 "addXpathXpath": "a mandatory <a href='http://xmlfr.org/w3c/TR/xpath/'>XPath</a> to point to the element(s) to update. XPath can not contain a filter expression.",
-"searchPlaceHolder": "Search ... (to include 'internal only' datasets in your search please log in)"
+"searchPlaceHolder": "Search ... (to include 'internal only' datasets in your search please log in)",
+"xml_iso19139-schemaupgrade": "Convert to ISO19139 non-spatial"
 }
