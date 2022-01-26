@@ -71,5 +71,6 @@
 "addXpathTitle": "an optional title",
 "addXpathXpath": "a mandatory <a href='http://xmlfr.org/w3c/TR/xpath/'>XPath</a> to point to the element(s) to update. XPath can not contain a filter expression.",
 "searchPlaceHolder": "Search ... (to include 'internal only' datasets in your search please log in)",
-"xml_iso19139-schemaupgrade": "Convert to ISO19139 non-spatial"
+"xml_iso19139-schemaupgrade": "Convert to ISO19139 non-spatial",
+"esriRestLinkDetails": "Spatial data download link: <a href='{{url}}' target='_blank'>{{url}}</a>."
 }
