@@ -18,6 +18,11 @@
     "params": []
   },
   {
+    "key": "xml_iso19139-schemaupgrade",
+    "type": "fixed-params",
+    "params": []
+  },
+  {
     "key": "keywords-mapper",
     "type": "fixed-params",
     "params": [
